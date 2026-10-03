@@ -1,4 +1,36 @@
-﻿# product-card
- There is only HTML/CSS here.
- Here you can visit and view this website:
- https://lemonchellodiplomat.github.io/product-card/
+# Product Cards
+
+Учебный проект по созданию карточек товаров с использованием HTML и CSS.
+
+## 🌐 Demo
+
+[Открыть сайт](https://lemonchellodiplomat.github.io/product-card/)
+
+## 🛠 Технологии
+
+* HTML5
+* CSS3
+
+## 📋 Реализовано
+
+* Карточки товаров
+* Изображения товаров
+* Названия и описания
+* Цены
+* Кнопки взаимодействия
+* Стилизация элементов интерфейса
+
+## 📁 Структура проекта
+
+```text
+product-card/
+├── images/
+├── favicon.png
+├── index.html
+├── styles.css
+└── README.md
+```
+
+## 🎯 Цель проекта
+
+Практика HTML/CSS и создание структурированных элементов интерфейса на основе карточек товаров.
